@@ -1,0 +1,45 @@
+
+
+main{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.navbar {
+  color: white;
+  padding: 17px;
+  text-align: center;
+  background-image: url("IMG/Rock.png");
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+
+.navbar li {
+  display: inline;
+  margin-right: 10px;
+  padding: 17px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: rgb(255, 253, 253);
+  background-color: rgb(54, 55, 51);
+  padding: 13px;
+}
+
+li a:hover{
+  font:100 bold;
+background-image: url("https://i.pinimg.com/originals/ef/5e/4b/ef5e4b4d024c66b42311e337ae8ab4cc.gif");
+  padding: 10px;
+}
+
+h6{
+  text-align: right; -webkit-text-fill-color: azure;
+}
+
+
+

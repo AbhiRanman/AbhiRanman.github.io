@@ -1,0 +1,39 @@
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.img-container {
+    flex-shrink: 0.6; 
+    margin-right: 20px; 
+}
+
+.img-container img {
+    max-width: 100%; 
+    height: auto; 
+    display: block;
+}
+
+.text-box {
+    background-color: #f2f2f2; 
+    padding: 20px; 
+}
+body{
+    background-image: url("IMG/HB.png");
+}
+
+ol a{
+    background-color: rgb(238, 248, 181); padding: 5px; border-style: double; border-width: 3px; border-color: black;
+}
+
+li a:hover{
+    font:100 bold;
+  background-image: url("https://i.pinimg.com/originals/ef/5e/4b/ef5e4b4d024c66b42311e337ae8ab4cc.gif");
+    padding: 10px;
+    -webkit-text-fill-color: beige;
+  }
+
+  ol a:hover{
+    -webkit-text-fill-color: rgb(255, 255, 255);
+  }

@@ -1,0 +1,37 @@
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.img-container {
+    flex-shrink: 0.6; 
+    margin-right: 20px; 
+}
+
+.img-container img {
+    max-width: 100%; 
+    height: auto; 
+    display: block;
+}
+
+.text-box {
+    background-color: #f2f2f2; 
+    padding: 20px; 
+    border-style: solid; border-color: black; border-width: 5px;
+}
+body{
+    background-image: url("IMG/Background.jpeg.png");
+}
+
+ol a{
+    background-color: burlywood; padding: 5px; border-style: double; border-width: 3px; border-color: black;
+}
+
+.title {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcsengineermag.com%2Fwp-content%2Fuploads%2F2019%2F06%2FAdobeStock_191306165.jpeg&f=1&nofb=1&ipt=b01c170cc30435633a530b2d20e20dc9f761a626ce61a1a62956cf8102d2f157&ipo=images"); border-start-end-radius: 23px; border-width: 50%; border-bottom-right-radius: 23px; border-bottom-left-radius: 23px; border-end-end-radius: 23px; border-style: double; border-width: 15px; border-color: navajowhite; text-align: center; -webkit-text-fill-color: azure;
+}
+
+h1{
+    border-color: black; 
+}

@@ -1,0 +1,66 @@
+h1{
+    text-align: center; background-color: teal;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 4px;
+    text-align: center;
+    background-color: rgb(254, 255, 248);
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 49%; 
+    background-color: whitesmoke;
+    
+}
+
+body{
+    background-image: url("IMG/BKAB2.jpeg");
+}
+
+.title {
+    background-color: rgb(255, 144, 25); border-start-end-radius: 23px; border-width: 50%; border-bottom-right-radius: 23px; border-bottom-left-radius: 23px; border-end-end-radius: 23px; border-style: double; border-width: 15px; border-color: navajowhite;
+}
+
+.Filler{
+    -webkit-text-fill-color: transparent;
+}
+
+
+
+
+  
+main {
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    text-align: center;
+    background-color: rgb(236, 245, 185);
+}
+
+img{
+    border-style: solid; border-color:orange; border-width: 3px; display: block; margin-left: auto; margin-right: auto; width: 50%; background-color: black;
+
+    background-color: rgb(254, 255, 248);
+    
+}
+
+h3{
+    text-align: center; 
+}
+
+.Final{
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 4px;
+    text-align: center;
+    background-color: rgb(254, 255, 248);
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 49%; 
+}
+
+
+
+
+
