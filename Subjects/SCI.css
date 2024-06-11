@@ -1,3 +1,5 @@
+
+
 .-Back-{
     text-align: center; background-color: teal; -webkit-text-fill-color: bisque;
 }
@@ -16,3 +18,46 @@
     margin-right: auto; 
     width: 49%; 
 }
+
+.Pr1{
+    background-color: rgb(243, 253, 175);
+    margin-right: auto; margin-left: auto;
+    width: 70%;
+}
+
+h2{
+    text-align: center;
+}
+  
+p{
+    text-align: center;
+}
+.pr1img{display: flex;}
+img{display: block; margin: auto;}
+
+.Pr2{
+    background-color: rgb(243, 253, 175);
+    margin-right: auto; margin-left: auto;
+    width: 50%;
+}
+
+h2{
+    text-align: center;
+}
+  
+p{
+    text-align: center;
+}
+.pr2img{display: flex;}
+img{display: block; margin: auto;}
+
+body{background-image: url("../IMG/SCIBG.png");}
+
+.Pr3{
+    background-color: rgb(243, 253, 175);
+    margin-right: auto; margin-left: auto;
+    width: 70%;
+}
+
+.pr3img{display: flex;}
+img{display: block; margin: auto;}

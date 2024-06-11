@@ -16,3 +16,23 @@
     margin-right: auto; 
     width: 49%; 
 }
+
+.Pr1{
+    background-color: rgb(0, 212, 159);
+    margin-right: auto; margin-left: auto;
+    width: 70%;
+}
+
+h2{
+    text-align: center;
+}
+  
+p{
+    text-align: center;
+}
+.pr1img{display: flex;}
+
+
+body{
+    background-image:url(https://www.pixelstalk.net/wp-content/uploads/2016/08/Wonderful-Nature-Colorful-Scene-HD.jpg) ;
+}
